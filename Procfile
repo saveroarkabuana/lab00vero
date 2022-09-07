@@ -1,1 +1,1 @@
-web: gunicorn lab00vero.wsgi --log-file -
+web: gunicorn verververo.wsgi --log-file -
